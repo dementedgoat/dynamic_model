@@ -95,9 +95,13 @@ jupyter notebook onchain_data.ipynb
 Repository Structure
 
 |-- ppo.ipynb                 # Notebook for training and running the PPO model
+
 |-- onchain_data.ipynb        # Notebook for retrieving historical on-chain data
+
 |-- requirements.txt          # Project dependencies
+
 |-- README.md                 # Project documentation
+
 
 Results
 
