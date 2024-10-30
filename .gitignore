@@ -1,0 +1,11 @@
+.env
+.venv
+*.json
+*.csv
+/target
+/logs
+/models
+*.save
+*.zip
+.DS_Store
+ppo_optuna_tensorboard
